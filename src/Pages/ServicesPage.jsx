@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import '../index.css';
-import festivals from '../festivals.js';
+import festivals from '../festivals.mjs';
 // Change the order / sorting of festivals to be by date, soonest to latest
 // also make a function that interacts to other sorting options like location, genre, etc.
 // with distance/location, use the Haversine formula to calculate distance from user location to festival location

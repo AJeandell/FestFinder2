@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import AboutPage from './AboutPage.jsx';
 import ContactPage from './ContactPage.jsx';
 import ServicesPage from './ServicesPage.jsx';
-import festivals from '../festivals.js';
+import festivals from '../festivals.mjs';
 import '../index.css';
 
 // create a slideshow/banner at the top of the page that cycles through images of festivals
